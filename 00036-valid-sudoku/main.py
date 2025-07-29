@@ -1,10 +1,6 @@
 from typing import List
 
 
-def get_quadrant_index(x: int) -> int:
-    return x // 3
-
-
 class Solution:
     empty = "."
 
